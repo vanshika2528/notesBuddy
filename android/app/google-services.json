@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "639768512096",
+    "project_id": "notebuddy-1b2dd",
+    "storage_bucket": "notebuddy-1b2dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639768512096:android:62dd37f7a104022844e505",
+        "android_client_info": {
+          "package_name": "com.example.note_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639768512096-7oujtbq7r0iu3cl7pra9591kfk9ae600.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.note_buddy",
+            "certificate_hash": "64c514decf5ec776474b904d6da7ccf2d7b0372a"
+          }
+        },
+        {
+          "client_id": "639768512096-uhbp6jtdbfveqks23n88ppr39kss5gkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFUptOXPYJR1IGKSR29EgQ0O4fU8Gtxlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639768512096-uhbp6jtdbfveqks23n88ppr39kss5gkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
