@@ -30,7 +30,36 @@
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here in a `/screenshots` folder)*
+> *(All screenshots are stored in the `/note_buddy_app_ss` folder)*
+
+### 🔐 Login Screen
+![Login](./note_buddy_app_ss/login.jpeg)
+
+### 📝 Sign Up with Google
+![Signup with Google](./note_buddy_app_ss/signupWithGoogle.jpeg)
+
+### ✅ Google Sign-in Success
+![Google Sign-in](./note_buddy_app_ss/googleSignlNSuccessfully.jpeg)
+
+### 🏠 Home Screen
+![Home](./note_buddy_app_ss/homeScreen.jpeg)
+
+
+### 📋 Menu
+![Menu](./note_buddy_app_ss/menu.jpeg)
+
+### 🧾 Generate Class Code
+![Generate Class Code](./note_buddy_app_ss/generateClassCode.jpeg)
+
+### 📚 Join Class
+![Join Class](./note_buddy_app_ss/joinClass.jpeg)
+
+### 📂 File Upload
+![File Upload](./note_buddy_app_ss/fileUpload.jpeg)
+
+### 📑 View Uploaded Files
+![View File](./note_buddy_app_ss/viewFileUpload.jpeg)
+
 
 ## 🚀 Getting Started
 
