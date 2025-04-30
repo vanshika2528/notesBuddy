@@ -30,7 +30,6 @@
 
 ## 📸 Screenshots
 
-> *(All screenshots are stored in the `/note_buddy_app_ss` folder)*
 
 ### 🔐 Login Screen
 ![Login](./note_buddy_app_ss/login.jpeg)
